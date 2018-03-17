@@ -1,0 +1,22 @@
+{
+  "name": "googlefirebasetestapp",
+  "version": "1.0.0",
+  "description": "A test of the  Google firebase services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calba5141114/googlefirebasetestapp.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Carlos A Alba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calba5141114/googlefirebasetestapp/issues"
+  },
+  "homepage": "https://github.com/calba5141114/googlefirebasetestapp#readme"
+}
